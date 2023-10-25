@@ -3,3 +3,5 @@ A short guide to connecting a git repo to GitHub.
 
 
 ## TEST
+**Reddy**  
+*Tech trainee*  
